@@ -1,0 +1,47 @@
+Testing Invalid Phone Numbers...
+Successfully Opened Database For Initialization
+Successfully Initialized Table!
+
+You entered invalid inputs.
+Exiting...
+Successfully Opened Database For Initialization
+Successfully Initialized Table!
+
+You entered invalid inputs.
+Exiting...
+Successfully Opened Database For Initialization
+Successfully Initialized Table!
+
+You entered invalid inputs.
+Exiting...
+Successfully Opened Database For Initialization
+Successfully Initialized Table!
+
+You entered invalid inputs.
+Exiting...
+Successfully Opened Database For Initialization
+Successfully Initialized Table!
+
+You entered invalid inputs.
+Exiting...
+Successfully Opened Database For Initialization
+Successfully Initialized Table!
+
+You entered invalid inputs.
+Exiting...
+Successfully Opened Database For Initialization
+Successfully Initialized Table!
+
+You entered invalid inputs.
+Exiting...
+Successfully Opened Database For Initialization
+Successfully Initialized Table!
+
+You entered invalid inputs.
+Exiting...
+Successfully Opened Database For Initialization
+Successfully Initialized Table!
+
+You entered invalid inputs.
+Exiting...
+9 Tests for phone inputs were executed..
