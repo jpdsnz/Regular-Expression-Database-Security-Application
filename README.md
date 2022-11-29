@@ -3,6 +3,8 @@
  🔧 Tools used: 
  - C++ 
  - Regular Expression Whitelist
- - SQLite 
+ - SQLite
+ - Shell Scripting
+ - Makefile
  
  🥅 Goals: Application to prevent harmful user input from ever entering the SQL database
