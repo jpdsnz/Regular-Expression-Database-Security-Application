@@ -5,6 +5,7 @@
  - Regular Expression Whitelist
  - SQLite
  - Shell Scripting
- - Makefile
+ - Log Files
+ - Linux User File Privileges
  
- 🥅 Goals: Application to prevent harmful user input from ever entering the SQL database
+ 🥅 Goals: Application to prevent harmful user input from ever entering the SQL database. This is written for execution on a Linux machine. 
