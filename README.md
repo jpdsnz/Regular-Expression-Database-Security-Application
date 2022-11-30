@@ -10,4 +10,4 @@
  - Log Files
  - Linux User File Privileges
  
- 🥅 Goals: Application to prevent harmful user input from ever entering the SQL database. This is written for execution on a Linux machine. 
+ 🥅 Goals: Write an application to prevent harmful user input from ever entering the SQL database. This is written for execution on a Linux machine. 
