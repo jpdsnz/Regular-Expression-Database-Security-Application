@@ -1,6 +1,17 @@
 # 🔐 Regular-Expression-Database-Security-Application
 
-![pic](https://raw.githubusercontent.com/jpdsnz/jpdsnz/main/database.jpg)
+<p align="center">
+      <img width="128" height="128" src="https://github.com/jpdsnz/jpdsnz/blob/main/cprogram.png">
+      <img width="128" height="128" src="https://github.com/jpdsnz/jpdsnz/blob/main/sqlite.png">
+      <img width="128" height="128" src="https://github.com/jpdsnz/jpdsnz/blob/main/ubuntu.png">
+</p>
+
+
+<p align="center">
+      <img width="80%" height="80%" src="https://raw.githubusercontent.com/jpdsnz/jpdsnz/main/database.jpg">
+</p>
+
+
  
  ## 🔧 Tools used: 
  - C++ 
